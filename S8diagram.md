@@ -27,6 +27,9 @@ S8 (Selector) Diagram:
 
 ```
 
+
+
+
 DO NOT USE:
 A = Input 1, type press switch
 B = Input 2, type press switch
